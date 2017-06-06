@@ -1,0 +1,19 @@
+{
+  "name": "ug-x-api",
+  "version": "1.0.0",
+  "description": "api for the ug-x app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rijumone/ug-x-api.git"
+  },
+  "author": "riju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rijumone/ug-x-api/issues"
+  },
+  "homepage": "https://github.com/rijumone/ug-x-api#readme"
+}
